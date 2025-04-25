@@ -20,7 +20,6 @@ Instead of using `direct`, `fanout`, or `topic` exchanges, this uses `headers` f
 
 ![RabbitMQ Header Exchange Architecture](./image.png)
 
-> Replace `architecture.png` with your image filename. Place it in the same folder as this `README.md`.
 
 ## 🚀 Run Services
 
