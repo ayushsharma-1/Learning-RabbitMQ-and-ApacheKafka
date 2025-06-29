@@ -1,6 +1,6 @@
 # Apache Kafka: Producer and Admin Client Guide
 
-This README provides an overview of Apache Kafka, with a focus on the **Kafka Producer** and **Admin Client**. It explains their roles, how they work, the architecture flow, why ZooKeeper is required, Kafka’s uses, benefits, and real-world use cases.
+![Architecture](image.jpg)
 
 ## What is Apache Kafka?
 
